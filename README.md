@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 景之 ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/ElainaFanBoy/Blog/main/assert/avt.png" width="415">
+<img align='right' src="./images/1.png" width="415">
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em>Information Engineering, 24th Graduate ！
 <br />
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> about me
