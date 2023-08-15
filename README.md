@@ -15,18 +15,4 @@
 ```
 <em><b> please say Hello !</b></em>
 ---
-
-
-⭐️ From [@景之](https://github.com/jing-zhi) 💕
-<img align='right' src="https://komarev.com/ghpvc/?username=ElainaFanBoy&label=Profile+Views&color=3a8755">
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20World;热爱代码，热爱生活!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-  <!-- knock code pictures 敲代码的图片 -->
-  <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 </div>
